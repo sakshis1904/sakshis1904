@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=sakshis1904&theme=tokyonight&hide_border=true" alt="Github Streak" />
+  <img src="https://streak-stats.demolab.com?user=sakshis1904&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
