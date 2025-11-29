@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-banner-url-here.png" alt="Banner" width="100%"/>
+  <img src="https://www.canva.com/design/DAG6Fr3Zyps/52GszZgrf9JfVUhgtsosxQ/edit?utm_content=DAG6Fr3Zyps&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" width="100%"/>
   <img src="https://your-profile-pic-url-here.png" alt="Sakshi Shrivastava" width="150" style="border-radius: 50%; margin-top: -75px; border: 5px solid #fff;"/>
 </div>
 
@@ -19,7 +19,8 @@
 - 🌱 I'm currently learning **AWS Cloud Services, System Design, and Advanced DSA**
 - 💼 All my projects are available at **[GitHub]([https://github.com/yourusername?tab=repositories](https://github.com/sakshis1904?tab=repositories))**
 - 📫 How to reach me: **sakshishrivastava190304@gmail.com**
-- 📄 Know about my experiences: [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/sakshi-shrivastava19/))
+- 📄 Know about my experiences: [LinkedIn]([https://www.linkedin.com/in/sakshi-shrivastava19/])
+  
 
 ---
 
