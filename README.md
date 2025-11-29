@@ -87,6 +87,7 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
   </a>
+  
 </p>
 
 ---
@@ -123,6 +124,9 @@
 ### 📫 Connect with Me
 
 <p align="left">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://portfolio-7s42dc8sq-sakshi-shrivastavas-projects.vercel.app/" />
+  </a>
   <a href="https://www.linkedin.com/in/sakshi-shrivastava19/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
