@@ -110,7 +110,7 @@
 ### 📈 Coding Profiles
 
 <p align="left">
-  <a href="https://www.geeksforgeeks.org/user/sakshishrivacz6v/" target="_blank">
+  <a href="https://leetcode.com/u/sakshishrivastava190304/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/sakshishrivacz6v/" target="_blank">
