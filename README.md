@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAG6Fr3Zyps/52GszZgrf9JfVUhgtsosxQ/edit?utm_content=DAG6Fr3Zyps&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" width="100%"/>
-  <img src="https://your-profile-pic-url-here.png" alt="Sakshi Shrivastava" width="150" style="border-radius: 50%; margin-top: -75px; border: 5px solid #fff;"/>
+  <img src="https://drive.google.com/file/d/1_Qf_8HSpYeKksd3SaFKTpmPkmvYzbj9R/view?usp=sharing" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sakshi Shrivastava</h1>
