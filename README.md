@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1_Qf_8HSpYeKksd3SaFKTpmPkmvYzbj9R/view?usp=sharing" alt="Banner" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1_0f_8HSpYeKksdS3aFKTpmpKmvvZbj9R" alt="Banner" width="100%" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Sakshi Shrivastava</h1>
 <h3 align="center">A passionate Full-Stack Developer from India | MERN Stack Enthusiast | VIT Student</h3>
