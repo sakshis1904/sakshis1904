@@ -17,9 +17,9 @@
 - 🎓 I'm a **Computer Science Engineering** student at **Vellore Institute of Technology** (CGPA: 9.13)
 - 🔭 I'm currently working on **Full-Stack MERN applications**
 - 🌱 I'm currently learning **AWS Cloud Services, System Design, and Advanced DSA**
-- 💼 All my projects are available at **[GitHub]([https://github.com/yourusername?tab=repositories](https://github.com/sakshis1904?tab=repositories))**
+- 💼 All my projects are available at **[GitHub]([https://github.com/sakshis1904?tab=repositories])**
 - 📫 How to reach me: **sakshishrivastava190304@gmail.com**
-- 📄 Know about my experiences: [LinkedIn]([https://www.linkedin.com/in/sakshi-shrivastava19/])
+- 📄 Know about my experiences: **[LinkedIn]([https://www.linkedin.com/in/sakshi-shrivastava19/])**
   
 
 ---
