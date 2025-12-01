@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **AWS Cloud Services, System Design, and Advanced DSA**
 - 💼 All my projects are available at **[GitHub](https://github.com/sakshi1904)**
 - 📫 How to reach me: **sakshishrivastava190304@gmail.com**
-- 📄 Know about my experiences: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-shrivastava19/)
+- 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/sakshi-shrivastava19/)**
   
 
 ---
