@@ -51,10 +51,6 @@
 #### ☁ Cloud / DevOps  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="32" />
-  <img src="https://img.shields.io/badge/EC2-orange?style=flat"/>
-  <img src="https://img.shields.io/badge/S3-yellow?style=flat"/>
-  <img src="https://img.shields.io/badge/Lambda-red?style=flat"/>
-  <img src="https://img.shields.io/badge/IAM-blue?style=flat"/>
 </p>
 
 ---
