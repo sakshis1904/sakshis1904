@@ -95,16 +95,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshis1904&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakshis1904&show_icons=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshis1904&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border_radius=5" height="170px" />
+  <img src="https://streak-stats.demolab.com?user=sakshis1904&theme=tokyonight&hide_border=false" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshis1904&layout=compact&theme=tokyonight&cache_seconds=86400" height="170px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakshis1904&layout=compact&theme=tokyonight" height="170" />
 </p>
+
 
 ---
 
