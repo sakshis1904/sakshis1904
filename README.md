@@ -39,8 +39,8 @@
 #### ⚙ Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="32" />
-  <img src="https://img.shields.io/badge/REST%20APIs-blue?style=for-the-badge" height="23"/>
-  <img src="https://img.shields.io/badge/JWT%20Auth-green?style=for-the-badge" height="23"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28">
+
 </p>
 
 #### 🗄 Databases  
