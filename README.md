@@ -95,15 +95,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakshis1904&show_icons=true&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sakshis1904&theme=tokyonight&hide_border=false" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakshis1904&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 
