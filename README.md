@@ -28,12 +28,12 @@
 
 #### 🧠 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,sql" height="32" />  
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,sql" height="32" />  
 </p>
 
 #### 🎨 Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" height="32" />  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap" height="32" />  
 </p>
 
 #### ⚙ Backend  
@@ -45,7 +45,7 @@
 
 #### 🗄 Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="32" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="32" /><img src="https://img.shields.io/badge/Convex-0A0A0A?style=for-the-badge&logo=convex&logoColor=white" height="28"> </p>
 </p>
 
 #### ☁ Cloud / DevOps  
