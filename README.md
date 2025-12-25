@@ -80,7 +80,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://portfolio-p1va9n7p1-sakshi-shrivastavas-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-7798um87m-sakshi-shrivastavas-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sakshi-shrivastava19/" target="_blank">
