@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Sakshi Shrivastava</h1>
+<h1 align="center">Hey 👋, I'm Sakshi Shrivastava</h1>
 <h3 align="center">A passionate Full-Stack Developer from India | MERN Stack Enthusiast | VIT Student</h3>
 
 <p align="center">
