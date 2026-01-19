@@ -17,7 +17,7 @@
 - 🎓 I'm a **Computer Science Engineering** student at **Vellore Institute of Technology** (CGPA: 9.13)
 - 🔭 I'm currently working on **Full-Stack MERN applications**
 - 🌱 I'm currently learning **AWS Cloud Services, System Design, and Advanced DSA**
-- 💼 All my projects are available at **[GitHub](https://github.com/sakshi1904)**
+- 💼 All my projects are available at **[GitHub](https://github.com/sakshis1904)**
 - 📫 How to reach me: **sakshishrivastava190304@gmail.com**
 - 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/sakshi-shrivastava19/)**
   
@@ -45,7 +45,7 @@
 
 #### 🗄 Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="32" /><img src="https://img.shields.io/badge/Convex-0A0A0A?style=for-the-badge&logo=convex&logoColor=white" height="28"> </p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="32" /><img src="https://img.shields.io/badge/Convex-0A0A0A?style=for-the-badge&logo=convex&logoColor=white" height="28"> 
 </p>
 
 #### ☁ Cloud / DevOps  
@@ -58,8 +58,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshis1904&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshis1904&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshis1904&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshis1904&theme=tokyonight" height="170"/>
+</p>
+
 
 
 ---
